@@ -6,19 +6,19 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1504587958108"
+    timestamp="1504589104450"
     token="-6447172028813639117"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="122" />
+        duration="115" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="18" />
     <task
         name="verifier"
         duration="4" />
@@ -108,7 +108,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1504587958108"
+        timestamp="1504589104450"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Twinny32_LJH\Documents\addressbook\ProviderTest2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
