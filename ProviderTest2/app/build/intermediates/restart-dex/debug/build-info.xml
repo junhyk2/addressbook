@@ -6,7 +6,11 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
+<<<<<<< HEAD
     timestamp="1504589915054"
+=======
+    timestamp="1504589980863"
+>>>>>>> Trying_Branch_make_open_address
     token="-6447172028813639117"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -134,10 +138,28 @@
             location="C:\Sample_android\sources\chap15\ProviderTest2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
+<<<<<<< HEAD
             location="C:\Sample_android\sources\chap15\ProviderTest2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Twinny32_LJH\Documents\addressbook\ProviderTest2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+=======
+            location="C:\Sample_android\sources\chap15\ProviderTest2\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1504584321073"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Twinny32_LJH\Documents\addressbook\ProviderTest2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Twinny32_LJH\Documents\addressbook\ProviderTest2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Twinny32_LJH\Documents\addressbook\ProviderTest2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+>>>>>>> Trying_Branch_make_open_address
             type="SPLIT" />
         <artifact
             location="C:\Sample_android\sources\chap15\ProviderTest2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -167,5 +189,20 @@
             location="C:\Users\Twinny32_LJH\Documents\addressbook\ProviderTest2\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+<<<<<<< HEAD
+=======
+    <build
+        build-mode="COLD"
+        timestamp="1504589104450"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Twinny32_LJH\Documents\addressbook\ProviderTest2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1504589980863"
+        verifier="COLD_SWAP_REQUESTED" />
+>>>>>>> Trying_Branch_make_open_address
 
 </instant-run>
