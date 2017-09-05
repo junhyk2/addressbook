@@ -47,7 +47,7 @@ public class ProviderTest2Activity extends Activity {
     }
 
     public void onClick(View v) {
-        // useContentValues();
+         useContentValues();
         ImpoLIst = null;
         getAddress();
 
