@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Sep 05 01:09:45 KST 2017
+2.base=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\my_text_view.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\my_text_view.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\provider_test2.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Sample_android\\sources\\chap15\\ProviderTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\provider_test2.xml
+0.set=ANDROID_RESOURCE
