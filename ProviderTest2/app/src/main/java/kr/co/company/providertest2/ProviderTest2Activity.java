@@ -1,8 +1,10 @@
 package kr.co.company.providertest2;
 
 import android.app.Activity;
+import android.content.ContentResolver;
 import android.content.ContentUris;
 import android.content.ContentValues;
+import android.database.Cursor;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -49,6 +51,50 @@ public class ProviderTest2Activity extends Activity {
     }
 
     public void onClick(View v) {
+        useContentValues();
+
+    }
+    public void getAddress(){
+        String phoneNum =null;
+        String NUMBER = ContactsContract.CommonDataKinds.Phone.NUMBER;
+        ContentResolver cr = getContentResolver();
+        ImpoLIst =new ArrayList<Impo>();
+
+        Cursor cur = cr.query(ContactsContract.Contacts.CONTENT_URI,null,null,null,null);
+        if(cur.getCount()>0){
+            while (cur.moveToNext()){
+
+                String id = cur.getString(cur.getColumnIndex(ContactsContract.Contacts._ID));
+                String name = cur.getString(cur.getColumnIndex(ContactsContract.Contacts.DISPLAY_NAME));
+                Impo impo = new Impo();
+
+                if(Integer.parseInt(cur.getString(cur.getColumnIndex(ContactsContract.Contacts.HAS_PHONE_NUMBER)))>0){
+                    impo.setNames(name);
+                    Cursor pCur = cr.query(ContactsContract.Data.CONTENT_URI,null,ContactsContract.Data.CONTACT_ID +"=? AND"+
+                    ContactsContract.Data.MIMETYPE+"='"+ContactsContract.CommonDataKinds.Phone.CONTENT_ITEM_TYPE+"'", new String[]{id},null);
+                    while (pCur.moveToNext()){
+                        phoneNum=pCur.getString(pCur.getColumnIndex(NUMBER));
+                        impo.setNumber(phoneNum);
+                    }
+                    pCur.close();
+
+
+
+                }
+
+                startAdapter();
+
+            }
+
+
+        }
+
+
+        //
+
+    }
+
+    public void useContentValues(){
         ContentValues values = new ContentValues();
 
         String name = nameEdit.getText().toString();
@@ -81,6 +127,7 @@ public class ProviderTest2Activity extends Activity {
             Toast.makeText(getApplicationContext(),"저장됨",Toast.LENGTH_LONG).show();
 
         }
+
     }
 
 
