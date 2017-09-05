@@ -1,0 +1,4 @@
+#Tue Sep 05 13:05:25 KST 2017
+base.0=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

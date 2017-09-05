@@ -1,0 +1,7 @@
+#Tue Sep 05 13:05:25 KST 2017
+base.0=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc8599676878e07da9610feb4310f399869f0594
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3dfe33d25cf5feacf7a0d553f7332e962e3da449\\classes.dex
+base.1=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3dfe33d25cf5feacf7a0d553f7332e962e3da449
+file.0=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc8599676878e07da9610feb4310f399869f0594\\classes.dex

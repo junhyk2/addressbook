@@ -1,0 +1,16 @@
+#Tue Sep 05 13:05:24 KST 2017
+renamed.4=classes5.dex
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+base.4=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_611675fb22b91389602d8fa7c9993e6c5b344cd2
+renamed.0=classes.dex
+base.3=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_985d8aa7b3466509f048232a1594579541568d97
+base.2=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d667b8f302d6a782e527f35416ae66293f0e1acf
+base.1=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_8fbf520521b74e67cf89ce2f262b1227caf2bc8e
+base.0=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7c240ab2de67b8f640ff78b0ebc325c4c2bdca6a
+file.4=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_611675fb22b91389602d8fa7c9993e6c5b344cd2\\classes.dex
+file.3=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_985d8aa7b3466509f048232a1594579541568d97\\classes.dex
+file.2=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d667b8f302d6a782e527f35416ae66293f0e1acf\\classes.dex
+file.1=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_8fbf520521b74e67cf89ce2f262b1227caf2bc8e\\classes.dex
+file.0=C\:\\Users\\Twinny32_LJH\\Documents\\addressbook\\ProviderTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7c240ab2de67b8f640ff78b0ebc325c4c2bdca6a\\classes.dex
